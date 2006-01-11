@@ -1,0 +1,13 @@
+Production:
+WAS/HTTP:-	http://172.23.0.69:8080/KM
+DB 		:-	http://172.23.0.68 (60000)
+
+Test:
+
+WAS/HTTP:-	http://172.23.35.22:9080/KM
+DB 		:-	http://172.23.35.21 (50000)
+
+User credentials :
+
+prod(mamousr)
+db(mamousr)
